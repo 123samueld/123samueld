@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel
 - 👀 I’m interested in working in tech. 
-- 🌱 I’m currently brushing up on full stack skills with Vue.js and PHP.
+- 🌱 I’m currently brushing up on full stack skills with Asp.Net 7.
 - 💞️ I’m looking to collaborate on front end animations.
 - 📫 Please email me at 123samueld@gmail.com.
 
